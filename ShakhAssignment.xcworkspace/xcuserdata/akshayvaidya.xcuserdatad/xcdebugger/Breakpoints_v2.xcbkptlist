@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E635C1B-F7BD-40AD-8F52-20B36575A8F8"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7463CEC2-B457-448C-8DA0-89791CEB65FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/TableCells/GridCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "setData(videoArr:mainIndex:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "795A6749-8A20-48B5-9D4D-4233B6F1468A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "795A6749-8A20-48B5-9D4D-4233B6F1468A - 20624d4c7c09186e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "795A6749-8A20-48B5-9D4D-4233B6F1468A - 20624d4c7c09186e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "624">
+               </Location>
+               <Location
+                  uuid = "795A6749-8A20-48B5-9D4D-4233B6F1468A - 20624d4c7c09184d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "795A6749-8A20-48B5-9D4D-4233B6F1468A - 20624d4c7c091bea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "568">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99B28406-0960-4F4E-95A9-F63AE5A6F356"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/TableCells/GridCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "99B28406-0960-4F4E-95A9-F63AE5A6F356 - 10fa508c6a46eb60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.GridCell.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/TableCells/GridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1128">
+               </Location>
+               <Location
+                  uuid = "99B28406-0960-4F4E-95A9-F63AE5A6F356 - 10fa508c6a46eb60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.GridCell.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/TableCells/GridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E544C29-C3EF-40B1-B88E-73C302419E0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E544C29-C3EF-40B1-B88E-73C302419E0D - df0bcffd9dca475c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1716">
+               </Location>
+               <Location
+                  uuid = "4E544C29-C3EF-40B1-B88E-73C302419E0D - 8b1e2bb5a4e77136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "4E544C29-C3EF-40B1-B88E-73C302419E0D - df0bcffd9dca475c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2004">
+               </Location>
+               <Location
+                  uuid = "4E544C29-C3EF-40B1-B88E-73C302419E0D - df0bcffd9dca44e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7205594-5B0C-40A1-8DED-AFD5626D4FC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7205594-5B0C-40A1-8DED-AFD5626D4FC5 - cc9352e394c364be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 @Swift.MainActor () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "C7205594-5B0C-40A1-8DED-AFD5626D4FC5 - cc9352e394c364be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 @Swift.MainActor () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66270FA9-4063-4F34-8D2F-18D6589877D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "setVideo(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "66270FA9-4063-4F34-8D2F-18D6589877D1 - 9ffa70488f1b912b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setVideo(url: Foundation.URL) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "760">
+               </Location>
+               <Location
+                  uuid = "66270FA9-4063-4F34-8D2F-18D6589877D1 - 9ffa70488f1b912b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setVideo(url: Foundation.URL) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "66270FA9-4063-4F34-8D2F-18D6589877D1 - 9ffa70488f1b9379"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setVideo(url: Foundation.URL) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "66270FA9-4063-4F34-8D2F-18D6589877D1 - 9ffa70488f1b935e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setVideo(url: Foundation.URL) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "824">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E35596C-1788-4756-8B9A-F71374AC7C9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E35596C-1788-4756-8B9A-F71374AC7C9A - df0bcffd9dca46d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "2E35596C-1788-4756-8B9A-F71374AC7C9A - e935b68effd2675d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "2E35596C-1788-4756-8B9A-F71374AC7C9A - db4c85581f83d222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "2080">
+               </Location>
+               <Location
+                  uuid = "2E35596C-1788-4756-8B9A-F71374AC7C9A - db4c85581f83d27c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A528FDA7-E88C-498E-BD90-4B3FE82FA693"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A528FDA7-E88C-498E-BD90-4B3FE82FA693 - e41ff740ef0348cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "A528FDA7-E88C-498E-BD90-4B3FE82FA693 - e41ff740ef0348cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "564">
+               </Location>
+               <Location
+                  uuid = "A528FDA7-E88C-498E-BD90-4B3FE82FA693 - b5338f96c5bae22d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "564">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFFBC8C7-6DBD-4D97-A4CB-CCED95014208"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AFFBC8C7-6DBD-4D97-A4CB-CCED95014208 - df0bcffd9dca44e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "2260">
+               </Location>
+               <Location
+                  uuid = "AFFBC8C7-6DBD-4D97-A4CB-CCED95014208 - df0bcffd9dca44e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1580">
+               </Location>
+               <Location
+                  uuid = "AFFBC8C7-6DBD-4D97-A4CB-CCED95014208 - 2a64ca6978c92898"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (ShakhAssignment.Media) -&gt; Swift.Bool in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "AFFBC8C7-6DBD-4D97-A4CB-CCED95014208 - a7d1be241df18698"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "2552">
+               </Location>
+               <Location
+                  uuid = "AFFBC8C7-6DBD-4D97-A4CB-CCED95014208 - 95fbf0aa3663b1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (ShakhAssignment.Media) -&gt; Swift.Bool in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "AFFBC8C7-6DBD-4D97-A4CB-CCED95014208 - 95fbf0aa3663b1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (ShakhAssignment.Media) -&gt; Swift.Bool in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DD65DDB-6FB5-415A-ADD9-3F0BB0CAA206"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "addToFile(data:id:index:index2:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C28825CF-E99A-4BFC-91F4-9D6E42FE459D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C28825CF-E99A-4BFC-91F4-9D6E42FE459D - 28350c3e711c3b1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "C28825CF-E99A-4BFC-91F4-9D6E42FE459D - 28350c3e711c3b1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3054A8F4-3833-458B-84B2-7058D610D1F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3054A8F4-3833-458B-84B2-7058D610D1F3 - a7d1be241df1865a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "3084">
+               </Location>
+               <Location
+                  uuid = "3054A8F4-3833-458B-84B2-7058D610D1F3 - db4c85581f83d287"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2720">
+               </Location>
+               <Location
+                  uuid = "3054A8F4-3833-458B-84B2-7058D610D1F3 - db4c85581f83d345"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "2720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3590C1F4-B90A-419F-947E-F313D60DD930"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/TableCells/GridCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3590C1F4-B90A-419F-947E-F313D60DD930 - 10fa508c6a46ebe4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.GridCell.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/TableCells/GridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "984">
+               </Location>
+               <Location
+                  uuid = "3590C1F4-B90A-419F-947E-F313D60DD930 - 10fa508c6a46eb07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.GridCell.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/TableCells/GridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "3590C1F4-B90A-419F-947E-F313D60DD930 - 10fa508c6a46ebaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.GridCell.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/TableCells/GridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "864">
+               </Location>
+               <Location
+                  uuid = "3590C1F4-B90A-419F-947E-F313D60DD930 - 10fa508c6a46ebaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.GridCell.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/TableCells/GridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "892">
+               </Location>
+               <Location
+                  uuid = "3590C1F4-B90A-419F-947E-F313D60DD930 - 10fa508c6a46ebaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.GridCell.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/TableCells/GridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "916">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27241050-25EE-4E4C-860F-F841F29866EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/TableCells/GridCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84BC75E7-F6B1-4F1D-9C12-CBBC36200EC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84BC75E7-F6B1-4F1D-9C12-CBBC36200EC4 - db4c85581f83d30b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "2964">
+               </Location>
+               <Location
+                  uuid = "84BC75E7-F6B1-4F1D-9C12-CBBC36200EC4 - cc9352e394c364be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 @Swift.MainActor () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "84BC75E7-F6B1-4F1D-9C12-CBBC36200EC4 - db4c85581f83d345"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "2812">
+               </Location>
+               <Location
+                  uuid = "84BC75E7-F6B1-4F1D-9C12-CBBC36200EC4 - cc9352e394c364f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 @Swift.MainActor () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F71C3C6B-C082-4742-ACC3-FF37CADD1D8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F71C3C6B-C082-4742-ACC3-FF37CADD1D8A - db4c85581f83d032"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "820">
+               </Location>
+               <Location
+                  uuid = "F71C3C6B-C082-4742-ACC3-FF37CADD1D8A - db4c85581f83d0d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1232">
+               </Location>
+               <Location
+                  uuid = "F71C3C6B-C082-4742-ACC3-FF37CADD1D8A - db4c85581f83d0d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E01FEB5-B1E0-45E3-BBBF-D4BE4E1479DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E01FEB5-B1E0-45E3-BBBF-D4BE4E1479DA - 28350c3e711c3bf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "8E01FEB5-B1E0-45E3-BBBF-D4BE4E1479DA - 28350c3e711c389e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F38AF204-8B00-4CDE-AA90-75CDA0B05DB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F38AF204-8B00-4CDE-AA90-75CDA0B05DB7 - db4c85581f83d0b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1632">
+               </Location>
+               <Location
+                  uuid = "F38AF204-8B00-4CDE-AA90-75CDA0B05DB7 - e41ff740ef034881"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20AD3F94-2C7A-467C-9F72-B7C20F0B9A02"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1958B2BB-9B1F-4B9F-ACB4-CABC824EEE7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1958B2BB-9B1F-4B9F-ACB4-CABC824EEE7D - 28350c3e711c38c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "1958B2BB-9B1F-4B9F-ACB4-CABC824EEE7D - 28350c3e711c38e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "1958B2BB-9B1F-4B9F-ACB4-CABC824EEE7D - 28350c3e711c3802"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AECBD92B-AD41-4979-8A46-B1E6EEAA791B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AECBD92B-AD41-4979-8A46-B1E6EEAA791B - db4c85581f83d155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2044">
+               </Location>
+               <Location
+                  uuid = "AECBD92B-AD41-4979-8A46-B1E6EEAA791B - e41ff740ef0348ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () -&gt; () in ShakhAssignment.videoCell.setData(model: ShakhAssignment.Arr, index: Swift.Int, index2: Swift.Int, id: Swift.String) -&gt; ()"
+                  moduleName = "ShakhAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ShakhAssignment/ShakhAssignment/CollectionCells/videoCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF7788C9-FFCF-44E4-866A-1CFB69C839B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8D79D89-2334-4B75-BA30-02008A9C3077"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FEA83F8-4B17-4D37-B242-FB86DD4FA170"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShakhAssignment/CollectionCells/videoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "setData(model:index:index2:id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
